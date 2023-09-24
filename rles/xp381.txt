@@ -1,0 +1,6 @@
+
+x = 39, y = 39, rule = B3/S23
+25bo$4bo18b3o$4bo17bo$4bo17b2o$3b2o$bo$o4bo3bo9b2o9b2o$o7bobo7b3o
+9b2o$2b3o4bo6b3obo$16b2obo$20bo$20b3o$17b2o3bo$16b3o$17bo$b2o$b2o
+6$37b2o$37b2o$22bo$21b3o$17bo3b2o$17b3o$19bo$20bob2o$19bob3o6bo$8b
+2o9b3o7bobo$8b2o9b2o9bo3$16b2o$17bo$14b3o$14bo!

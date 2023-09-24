@@ -1,0 +1,19 @@
+
+x = 19, y = 32, rule = B3/S23
+16b3o$16bobo$16b3o$b2o13b3o$b2o13b3o$16b3o$16bobo$16b3o5$b3o3b3o$o
+2bo3bo2bo$2obo3bob2o16$b2o5b2o$b2o5b2o!
+
+x = 108, y = 103, rule = B3/S23
+21bo$21b3o$24bo$23b2o2$26bo$25b3o$24bo3bo$23bob3obo$24b5o6$33b2o9b
+2o14b2o$10b2o21b2o8b2o15b2o$11bo32b5o$11bobo5b2o24b4o$12b2o5bo2bo$
+23bo21b4o$23bo20b5o$23bo19b2o15b2o$19bo2bo21b2o14b2o$19b2o2$25b2o$
+25b2o8$10b2o$10b2o10$36bo4bo$34b2ob4ob2o$36bo4bo6$38b2o5b2o$38b2o
+5b2o45bo$12b2o20bo15bo31b2o8b2o$11bobo19bobo13bobo29bo2bo5bob3o11b
+2o$11bo21b2o15b2o28b3ob2o8b2o10b2o$10b2o69bob2o8b2o$82bo10bo$2o$bo
+91bo$bobo5b2o82b2o$2b2o5b2o29b2ob2o7b2o3bo2bo3b2o13b2o13b2o10b2o$
+12b2o26b2ob2o7b5o4b5o13b2o9bob3o11b2o$12b3o25b2ob2o7b2o3bo2bo3b2o
+26b2o$12b2o24bob2ob2obo22bo22bo$9b2o27b3o3b3o22bo$9b2o28bo5bo$69bo
+$68bobo2$17bo50b3o$16b3o$16b3o$68b3o$14b2o3b2o$14b2o3b2o24b2o21bob
+o$45b2o22bo2$69bo$69bo$48bo$19b2o19bo6bobo$19bo19bobo3b2o3bo$20b3o
+16bobo3b2o3bo$22bo17bo4b2o3bo$47bobo8b2o$48bo9bobo$37b2o3b2o16bo$
+37b2o3b2o16b2o2$39b3o$39b3o$40bo4$42b2o$42bo$43b3o$45bo!

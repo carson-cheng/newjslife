@@ -1,0 +1,6 @@
+
+x = 40, y = 46, rule = B3/S23
+8bo22bo$6b3o22b3o$5bo28bo$5b2o26b2o3$11b2o14b2o$o9bob2o12b2obo9bo$
+o8bo2bo14bo2bo8bo$o9b2o16b2o9bo$3b3o28b3o$3b2o30b2o$3b2o30b2o5$14b
+2o$14b2o8$14b3o3b3o$13bo2bo3bo2bo$13b2obo3bob2o16$14b2o5b2o$14b2o
+5b2o!

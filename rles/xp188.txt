@@ -1,0 +1,39 @@
+
+x = 46, y = 25, rule = B3/S23
+17b2o7bo7bo$3b2o12b2o5b3o5b3o$2bo2bo17bo7bo$o2bo2bo16b2o6b2o$2obob
+2o$3bo5b2o10bo$3bobo3bo10bobo$b2obo4bo9bo3bo17b2o$o2bo2bob2o9bo3bo
+16bo2bobo$o2bob2obo10bo3bo15bob2ob2o$b3o2bobobo9bobo13bo3bobo$4b2o
+bo2bo10bo14bo3bobo$3bo2bobo26bo6b2o$3bob6o26bo2b2o$2obo3bo29bo4b2o
+$o2bo2bo30bob2obo$2bo2bo30b2obo2bo$3b2o30b2o3b2ob2o$36b2o4bo2bo$
+35b2o2b2obob2o$39b2obobo$13b2o6b2o16bo2bobo$14bo7bo17bo2bo$11b3o5b
+3o5b2o12b2o$11bo7bo7b2o!
+
+x = 26, y = 54, rule = B3/S23
+o11bo$3o7b3o$3bo5bo$2b2o5b2o7$14b2o$14b2o3$8b2o$7bo2bo$6b2ob2o$b2o
+5bo$b2o3$20b2o$20b2o9$4b2o$4b2o3$23b2o$17bo5b2o$15b2ob2o$15bo2bo$
+16b2o$2o$3o$2obo6b2o$2bobo5b2o$bo2bo$2b2o5$15b2o5b2o$16bo5bo$13b3o
+7b3o$13bo11bo!
+
+x = 75, y = 77, rule = B3/S23
+54bo3b2o$53bobo2bo$53bobo4bo$54bob5o$56bo$55bo3b2o5b2o$54bo4b2o5bo
+$54b2o8bobo6b2o$64b2o7bo$71bobo$71b2o$57b3o2$50b2o5b2o$50b2o5bo$
+73b2o$62b2o9bo$62b2o7bobo$59b2o2bo7b2o$52b2o6b3o$51bobo6b3o$51bo7b
+2o$50b2o6b2o$58bo14b2o$73b2o$29bo18b2o$27b3o18b2o$26bo$26b2o$59b2o
+$58bobo8b2o$34b2o22bo5b2o4bo$34b2o21b2o5b2o3bo$68bo$64b5obo$29b2o
+33bo4bobo$29bobo34bo2bobo$29bob2o32b2o3bo$30b2o$4bo3b2o20bo$3bobo
+2bo$3bobo4bo$4bob5o$6bo$5bo3b2o5b2o$4bo4b2o5bo$4b2o8bobo$14b2o$47b
+2o$48bo$25b2o18b3o$25b2o18bo$2o$2o14bo$15b2o6b2o$14b2o7bo$12b3o6bo
+bo$12b3o6b2o$2b2o7bo2b2o$bobo7b2o$bo9b2o$2o$17bo5b2o$16b2o5b2o2$
+15b3o$2b2o$bobo$bo7b2o$2o6bobo8b2o$8bo5b2o4bo$7b2o5b2o3bo$18bo$14b
+5obo$14bo4bobo$16bo2bobo$15b2o3bo!
+
+x = 69, y = 38, rule = B3/S23
+21b2o$22bo$22bobo$23b2o8$17b2o7bo6b2o$3b2o12b2o5b3o6b2o7bo7b2o$2bo
+2bo17bo18b3o5b2o12b2o$bobo2bo16b2o20bo17bo2bo$bobo3bo36b2o16bo2bo
+2bo$2obob6o51b2obob2o$o2bo2bobo49b2o5bo$b2ob2obo2bo48bo3bobo$3bo2b
+obobo48bo4bo$3bob2obo50b2obo2b3o$2b2o2bob2o50bob2obo2bo$4bo4bo48bo
+bobo2bo2bo$2b2obo3bo48bo2bob2ob2o$3bo5b2o13bo35bobo2bo$3bob2o16b3o
+13bo18b6obo$2obo2bo15b2ob2o11b2o21bo3bob2o$obo2bo15b3ob3o16b2o16bo
+2bo2bo$3b2o17b2ob2o12b2o3bobo16bo2bo$23b3o18bobo17b2o$15b2o7bo20bo
+$16bo35b2o$13b3o5b2o29bo$13bo8bo23b2o5b3o$19b3o5b2o4b2o11bo8bo$19b
+o7b2o4bo6b2o5b3o$34b3o3b2o7bo$36bo!

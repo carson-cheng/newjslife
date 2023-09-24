@@ -1,0 +1,7 @@
+
+x = 39, y = 47, rule = B3/S23
+35b2o$35b3o$29b2o2bo2bobo$29b2o2b2o2b2o$33b2o2$3b2o5b2o$3b2o5b2o6$
+34b2o$34b2o$3b3o3b3o$2bo2bo3bo2bo$2b2obo3bob2o5$27b3o3b3o$26bo2bo
+3bo2bo$26b2obo3bob2o2$11b2o$10bobo$12bo5$3b2o5bo$3b2o5b3o$9bo2b2o$
+10bo$10b3o$11bo2$27b2o5b2o$27b2o5b2o$6b2o$6b3o$2o2bo2bobo$2o2b2o2b
+2o$4b2o!
