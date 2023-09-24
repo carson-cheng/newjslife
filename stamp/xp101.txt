@@ -1,0 +1,16 @@
+x = 326, y = 95, rule = B3/S23
+2o4b2obo10b2o25b2o212b2o$bo4bob2o11bo25bo2b2o203bob2obobo$o3b2o4b2o8bo
+27b2ob3o201b2obobo$2o2bo5bo9b2o17b2o13bo204b2o$5bo5bo16b2o10bo7b2ob3o$
+2o2b2o4b2o8b2o7bo10bobo5b2obo$bo2bo5bo10bo7bobo9b2o$o4bo5bo8bo9b2o$2o
+2b2o4b2o8b2o245b2o$4bo5bo250bo5b2o$2o3bo5bo8b2o238b2o$bo2b2o4b2o9bo
+237b2o$o5b2obo10bo237b3o$2o4bob2o10b2o34b2o$34b2o20b2o$33bobo32b2o192b
+o$32b3o22bo10bo194b2o$32b3o21b3o7bobo183bo9b2o$56b3o7b2o183bobo$251bob
+o$26b2o7b3o211b3ob2o$25bobo7b3o21b3o186bo$25bo10bo22b3o187b3ob2o$24b2o
+32bobo190bob2o$36b2o20b2o$36b2o4$269b2o$259b2ob2o5bobo$62b2o195b2ob2o
+7bo$51b2o9bobo196bo9b2o$42bob2o5bobo10bo183b2o$40b3ob2o7bo10b2o182b2o$
+39bo13b2o$40b3ob2o$42b2o2bo$45b2o$264bo$263bobo22bo$263bobo23bo$264bo
+22b3o$265b3o$267bo6$306bo$306b3o$284b3o22bo$284bo23bobo$285bo22bobo$
+309bo5$324b2o$324b2o$301b2o9bo$302bo7b2ob2o$302bobo5b2ob2o$303b2o6$
+319b2obo$319b2ob3o$325bo$319b2ob3o$320bobo$320bobo$310b2o9bo$309b2o$
+311bo3$313b3o$313b2o$312b2o$305b2o5bo$305b2o5$313b2o$313bobob2o$311bob
+ob2obo$311b2o!

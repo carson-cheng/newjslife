@@ -1,0 +1,7 @@
+x = 54, y = 28, rule = B3/S23
+2o4b2o4b2obo6bob2o$bo5bo4bob2o6b2obo$o5bo3b2o8b2o$2o4b2o2bo10bo16bo6bo
+$2bob2o5bo8bo16b4o2b4o$2b2obo4b2o8b2o8b2o4bo3bo2bo3bo4b2o$6b2o4b2obo6b
+ob2o4b2o5bob2o2b2obo5b2o$7bo4bob2o6b2obo12bo6bo$6bo3b2o4b2o8b2o$6b2o2b
+o5bo10bo$11bo5bo8bo$10b2o4b2o8b2o$6b2o4b2obo6bob2o$6b2o4bob2o6b2obo12b
+o6bo$30b2o5bob2o2b2obo5b2o$30b2o4bo3bo2bo3bo4b2o$37b4o2b4o$38bo6bo8$
+37b8o$37bob4obo$37b8o!

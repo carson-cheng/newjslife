@@ -1,0 +1,9 @@
+x = 81, y = 37, rule = B3/S23
+2b2obo6b2obo6bob2o16b2o4b2o$2bob2o6bob2o6b2obo16bobo2bobo4bo$6b2o2b2o
+8b2o22bo2bo6b3o$6bo3bo10bo21bo4bo8bo$7bo3bo8bo22b2o2b2o7b2o$6b2o2b2o8b
+2o23b2o$2b2obo6b2obo6bob2o33b2o$2bob2o6bob2o6b2obo32bobo$2o8b2o4b2o8b
+2o7b2o21b2o$o9bo5bo10bo7bo$bo9bo5bo8bo9b3o$2o8b2o4b2o8b2o2b2o6bo$2b2ob
+o6b2obo6bob2o5bo6bobo8b2o3bo$2bob2o6bob2o6b2obo5bobo5b2o8b3ob2o$32b2o
+18b2o$36b2o$35bobo$35b2o3$74b2o$73bobo$73b2o$57b2o18b2o$56b2ob3o8b2o5b
+obo$56bo3b2o8bobo6bo$72bo6b2o$72b3o$75bo$51b2o21b2o$50bobo$50b2o2$53b
+2o$53bo$54b3o$56bo!

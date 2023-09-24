@@ -1,0 +1,10 @@
+x = 79, y = 42, rule = B3/S23
+2o4b2o4b2obo6b2obo21b2o$bo5bo4bob2o6bob2o22bo$o5bo3b2o4b2o2b2o4b2o19bo
+$2o4b2o2bo5bo3bo5bo20b4o$2bob2o5bo5bo3bo5bo22bo$2b2obo4b2o4b2o2b2o4b2o
+17b3o$6b2o4b2obo6b2obo8b2o8bo2bo$7bo4bob2o6bob2o8bobo2b2o3b2o$6bo3b2o
+4b2o2b2o4b2o3bo4bo3bo$6b2o2bo5bo3bo5bo4b5ob3o$11bo5bo3bo5bo7bobo$10b2o
+4b2o2b2o4b2o3b3obobo$6b2o4b2obo6b2obo4bo2bob2o$6b2o4bob2o6bob2o4b2o2$
+49b2o$34b2o12bobo22bo$34b2o11b2o22b3o$48bobo19bo$49b2o19b2o3$37b2o19b
+2o$38bo19bobo$35b3o22b2o11b2o$35bo4b2o16bobo12b2o$40b2o16b2o2$77b2o$
+39bob2o29b2obo2bo$39bobo29bobob3o$40bo30bobo$40b2o27b3ob5o$40b2o26bo3b
+o4bo$40b2o21b2o3b2o2bobo$61bo2bo8b2o$61b3o$58bo$58b4o$61bo$60bo$60b2o!

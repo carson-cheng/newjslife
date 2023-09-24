@@ -1,0 +1,8 @@
+x = 60, y = 31, rule = B3/S23
+2o2b2o4b2o8b2o25b2o7bo$bo3bo5bo9bo13bo7bo4bo6bobo$o3bo5bo9bo13bobo5bob
+o3bobo4bobo$2o2b2o4b2o8b2o13bo7bo5b2o3b2ob2o$6bob2o49bo$2o4b2obo10b2o
+30b8o$bo8b2o9bo30b2o$o10bo8bo9bo4b3o3b3o4bo6bobo$2o8bo9b2o8bo4b3o3b3o
+4bo7b2o$10b2o18bo5bo5bo5bo$2o18b2o4b2o23b2o$bo19bo3bobo23bobo$o9b2o8bo
+4bo27bo$2o8b2o8b2o2b2o27b2o2$31b2o13b2o$31b2o13b2o2$24b2o27b2o$25bo27b
+o$25bobo23bobo$26b2o23b2o$30bo5bo5bo5bo$30bo4b3o3b3o4bo$30bo4b3o3b3o4b
+o4$35bo7bo$34bobo5bobo$35bo7bo!

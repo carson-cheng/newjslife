@@ -1,0 +1,6 @@
+
+x = 51, y = 32, rule = B3/S23
+25b2o$25b2o$31bo$31b3o$7b2o25bo$7b2o24b2o3$47b2o$47b2o$25bo$24b3o$
+23bo3bo$2b2o19b2ob2o$bobo$bo47b2o$2o47bo$47bobo$23b2ob2o19b2o$23bo
+3bo$24b3o$25bo$2b2o$2b2o3$16b2o24b2o$16bo25b2o$17b3o$19bo$24b2o$
+24b2o!

@@ -1,0 +1,21 @@
+
+x = 37, y = 44, rule = B3/S23
+9bo$7b3o$6bo$6b2o2$3b2o5b2o$3bobo4b2o15b2o4b2o$4b2o20bo2bo3b2o$27b
+2o$11b2o$10bobo$10bo$10b3o2$2o$2o30b2o$32b2o2$16bo$15bobo$16bo3$
+20bo$19bobo$20bo2$3b2o$3b2o30b2o$35b2o2$24b3o$26bo$24bobo$24b2o$8b
+2o$2b2o3bo2bo20b2o$2b2o4b2o15b2o4bobo$25b2o5b2o2$29b2o$30bo$27b3o$
+27bo!
+
+x = 57, y = 57, rule = B3/S23
+44b2o7b2o$44b2o7b2o5$43bo11bo$43b2o9b2o$42bob2o7b2obo2$42b2o11b2o$
+43bo11bo$43bo11bo$42b2o11b2o2$42bob2o7b2obo$43b2o9b2o$43bo11bo$36b
+o$32bo3bo3bo$31b2o2bo2b2obo$30b2obo5bobo$31bobo10b2o7b2o$32b2o10b
+2o7b2o3$40b2o$13bo26bo$13b3o25b3o$16bo26bo$15b2o3$2b2o7b2o10b2o$2b
+2o7b2o10bobo$15bobo5bob2o$15bob2o2bo2b2o$16bo3bo3bo$20bo$bo11bo$b
+2o9b2o$ob2o7b2obo2$2o11b2o$bo11bo$bo11bo$2o11b2o2$ob2o7b2obo$b2o9b
+2o$bo11bo5$2b2o7b2o$2b2o7b2o!
+
+x = 24, y = 28, rule = B3/S23
+8bo6bo$7b4o2b4o$2o4bo3bo2bo3bo4b2o$2o5bob2o2b2obo5b2o$8bo6bo6$8bo
+6bo$2o5bob2o2b2obo5b2o$2o4bo3bo2bo3bo4b2o$7b4o2b4o$8bo6bo6$9b3o$
+13bo$8bo4bo$12bo$9b2o$9bo$9bo$9bo!

@@ -1,0 +1,13 @@
+x = 302, y = 42, rule = B3/S23
+2o4b2obo6b2obo33bo220b2o$bo4bob2o6bob2o32bobo211bo7bo9bo$o3b2o4b2o2b2o
+27b2o7bobo211b3o3bobo7b3o$2o2bo5bo3bo28b2o6b2ob3o212bob3o7bo$5bo5bo3bo
+41bo210bob2o9b2o$2o2b2o4b2o2b2o35b2ob3o211bo2bo$bo4b2obo6b2obo31b2obo$
+o5bob2o6bob2o22b2o$2o8b2o2b2o4b2o21b2o224bo2bo5b2o$10bo3bo5bo21b2o226b
+2o5b3o$2o9bo3bo5bo239b2o15b2o$bo8b2o2b2o4b2o240bo13b2o$o5b2obo6b2obo
+242bobo11b2o$2o4bob2o6bob2o34b2o207b2o34b2o$54b2o243bo$297bobo$267b2o
+26b2obo$266bo2bo22b6o$267bobo22b3o$26b2o232bo7bo29b2o$26b2o232b3o35bo$
+263bo35b3o$262bo30b2o6bo$262bo2bo2b2o21bob2o$38b2o225bo2b2o21b3o$37b2o
+224bobo$38b2o222bobo$27bob2o231bo$25b3ob2o230b2o34b2o$24bo272bobo$25b
+3ob2o6b2o260bo$27bobo7b2o245b2o13b2o$27bobo254bo5b2o$28bo256bo4b2o$
+285b2o$291bo$291b2o$279b2o12bo$280bo7b2o2bo$277b3o7bobo3b3o$277bo9bo7b
+o$286b2o!

@@ -1,0 +1,15 @@
+x = 124, y = 108, rule = B3/S23
+2b2obo6bob2o6b2obo19b2o28b2o$2bob2o6b2obo6bob2o19b2o28b2o$2o4b2o8b2o8b
+2o$o5bo10bo8bo$bo5bo8bo10bo$2o4b2o8b2o8b2o$2b2obo8b2o6b2obo$2bob2o9bo
+6bob2o$6b2o6bo5b2o$6bo7b2o4bo$7bo4b2o7bo$6b2o5bo6b2o$2b2obo6bo9b2obo$
+2bob2o6b2o8bob2o5$35bo50bo$33b3o50b3o$32bo3b2o46b2o3bo$31bob2o3bo27bo
+16bo3b2obo$31bobob3o27b2o16b2o3bobo$30b2obo2bo27b2o17b3o2bob2o$33bo50b
+obobo$33bobo29bo18bobobo$32b2ob2o48b2ob2o4$32b2ob2o48b2ob2o$33bobobo
+18bo29bobo$33bobobo50bo$30b2obo2b3o17b2o27bo2bob2o$31bobo3b2o16b2o27b
+3obobo$31bob2o3bo16bo27bo3b2obo$32bo3b2o46b2o3bo$33b3o50b3o$35bo50bo
+13$107b2o$107b2o3$45b2o$45b2o13$67bo50bo$65b3o50b3o$64bo3b2o46b2o3bo$
+63bob2o3bo27bo16bo3b2obo$63bobob3o27b2o16b2o3bobo$62b2obo2bo27b2o17b3o
+2bob2o$65bo50bobobo$65bobo29bo18bobobo$64b2ob2o48b2ob2o4$64b2ob2o48b2o
+b2o$65bobobo18bo29bobo$65bobobo50bo$62b2obo2b3o17b2o27bo2bob2o$63bobo
+3b2o16b2o27b3obobo$63bob2o3bo16bo27bo3b2obo$64bo3b2o46b2o3bo$65b3o50b
+3o$67bo50bo17$77b2o28b2o$77b2o28b2o!

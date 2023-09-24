@@ -1,0 +1,10 @@
+x = 306, y = 76, rule = B3/S23
+2o4b2obo6bob2o8b2o$bo4bob2o6b2obo9bo229bo$o3b2o8b2o12bo229b3o$2o2bo10b
+o12b2o$5bo8bo$2o2b2o8b2o12b4o226b3o$bo4b2obo6bob2o7bo3bo$o5bob2o6b2obo
+6bob3o227bobo$2o2b2o4b2o8b2o4bo3bo4bob2o219bobo$4bo5bo10bo2b2obobo5b2o
+bo$2o3bo5bo8bo4bobo230b3o$bo2b2o4b2o8b2o3bobo$o5b2obo6bob2o6bo$2o4bob
+2o6b2obo238b3o$259bo$30b8o$30bob4obo204bo6bo$30b8o203b2o6b2o4bo$240b3o
+6b3o4bo$241b2o6b2o3b3o$242bo6bo13$281b3o$281bobo$281b3o$262b3o16b3o$
+262bobo16b3o$262b3o16b3o$262b3o16bobo$262b3o16b3o$262b3o$262bobo$262b
+3o13$296bo6bo$289b3o3b2o6b2o$289bo4b3o6b3o$290bo4b2o6b2o$296bo6bo2$
+286bo$285b3o3$285b3o2$285bobo$285bobo2$285b3o3$285b3o$286bo!

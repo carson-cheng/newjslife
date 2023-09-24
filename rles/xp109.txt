@@ -1,0 +1,9 @@
+
+x = 41, y = 58, rule = B3/S23
+9b2ob2o$10bobo$5b2obo5bob2o$4bobob2o3b2obobo$3bo6bobo6bo$3b7o3b7o
+2$5b3o7b3o$4bo2bo3bo3bo2bo$4b2o4bobo4b2o$10bobo$11bo$6b2o7b2o$6bo
+9bo$4bobo4bo4bobo$4b2o4bobo4b2o$10bobo27bo$11bo26b3o$37bo$37b2o7$
+10bo$10b2o$9b2o$30b2o$29b2o$30bo7$2b2o$3bo$3o26bo$o27bobo$22b2o4bo
+bo4b2o$22bobo4bo4bobo$24bo9bo$24b2o7b2o$29bo$28bobo$22b2o4bobo4b2o
+$22bo2bo3bo3bo2bo$23b3o7b3o2$21b7o3b7o$21bo6bobo6bo$22bobob2o3b2ob
+obo$23b2obo5bob2o$28bobo$27b2ob2o!

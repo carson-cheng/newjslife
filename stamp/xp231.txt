@@ -1,0 +1,7 @@
+x = 57, y = 22, rule = B3/S23
+2b2obo6b2obo10b2o4bo$2bob2o6bob2o11bo3bobo9b2o$6b2o8b2o8bo4bobo10bo$6b
+o9bo9b2o2b2ob3o5b3o$7bo9bo14bo2bo5bo$6b2o8b2o8b2o4bob2o$2b2obo6b2obo
+11bo5bo2bo6bo$2bob2o6bob2o10bo7b4o4bobo$2o14b2o8b2o15bo$o15bo17b2o$bo
+15bo8b2o6bo12b2o$2o14b2o9bo7bo3b2o5bo2bo$2b2obo6b2obo10bo7b2o3b2o5bo2b
+o$2bob2o6bob2o10b2o18bobo$47bobo$46bo2bo5b2o$46bo2bo5b2o$47b2o2$52bo$
+51bobo$52bo!

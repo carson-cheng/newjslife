@@ -1,0 +1,17 @@
+x = 150, y = 136, rule = B3/S23
+2b2obo6b2obo6b2obo35bo$2bob2o6bob2o6bob2o35b2o$2o4b2o8b2o2b2o38b2obo
+55b3o$o5bo9bo3bo38bo2b3o54b3o$bo5bo9bo3bo27bo8bobobo56b3o10bo$2o4b2o8b
+2o2b2o27b3o5bobobo60b3o5b3o$2b2obo6b2obo6b2obo26bo2b3o2bo61b3o4bo$2bob
+2o6bob2o6bob2o25b2o3bob2o62b3o4b2o$6b2o8b2o2b2o4b2o29b2o$6bo9bo3bo5bo
+27bo3bo68bo$7bo9bo3bo5bo25bobo70bobo$6b2o8b2o2b2o4b2o21b2o2b2o72b2o2b
+2o$2b2obo6b2obo6b2obo23b2o80b2o$2bob2o6bob2o6bob2o$32b3o$31bo116b2o$
+31bo3bo110bob2o$31bo2bobo108bo$33bobo2bo109bo$34bo3bo105b2obo$38bo105b
+2o$35b3o24bo$40bo19bobo78bo$39bobo19b2o77bobo$40b2o98b2o$36b2o106b2o$
+35bobo106bobo$35bo5b2o96b2o5bo$34b2o5b2o96b2o5b2o32$80bo$80bobo$80b2o
+2$67b2o44b2o$67b2o44b2o5$67b2o5b2o30b2o5b2o$67b2o5b2o30b2o5b2o36$34b2o
+5b2o96b2o5b2o$35bo5b2o96b2o5bo$35bobo106bobo$36b2o106b2o$40b2o98b2o$
+39bobo98bobo$40bo100bo$35b3o$38bo105b2o$34bo3bo105b2obo$33bobo2bo109bo
+$31bo2bobo108bo$31bo3bo110bob2o$31bo116b2o$32b3o2$49b2o80b2o$49b2o2b2o
+72b2o2b2o$53bobo70bobo$54bo3bo68bo$57b2o$51b2o3bob2o62b3o4b2o$52bo2b3o
+2bo61b3o4bo$49b3o5bobobo60b3o5b3o$49bo8bobobo56b3o10bo$59bo2b3o54b3o$
+60b2obo55b3o$61b2o$61bo!

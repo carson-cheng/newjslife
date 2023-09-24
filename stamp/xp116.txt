@@ -1,0 +1,12 @@
+x = 295, y = 43, rule = B3/S23
+2o8b2o4b2obo13b2o4b2o4b2o$bo9bo4bob2o12bo2bobo4bobo2bo$o9bo3b2o16b3o
+10b3o$2o8b2o2bo20b2o6b2o$15bo18bo2b6o2bo$2o8b2o2b2o18b2o8b2o$bo9bo4b2o
+bo263bo$o9bo5bob2o250b2o10bobo$2o8b2o2b2o4b2o3b2o26b2o215b2o9bo3bo$14b
+o5bo3bobo26bobo225bo3bo$2o8b2o3bo5bo2bobob2o20b2obobo225b2ob2o$bo9bo2b
+2o4b2o3bobobo20bobobo236b2o$o9bo5b2obo7bo24bo238bobo$2o8b2o4bob2o7b2o
+23b2o239bo$27b3o10bo11b3o238b2o$27b3o10b2o10b3o$27b3o22b3o213bo$27b3o
+10b2o10b3o213b3o17b2o$27b2o11bo11b2o217bo16bo$27bo12bo11bo217b2o17b3o$
+25bobobo20bobobo236bo$24bobob2o20b2obobo$24bobo26bobo209b2o$25b2o26b2o
+211bo$266bobo$39b2o226b2o$34b2obo4bob2o228b2ob2o$34bo10bo228bo3bo$35b
+2o6b2o229bo3bo9b2o$32b3o2b6o2b3o227bobo10b2o$32bo2bo8bo2bo228bo$33b2o
+10b2o6$279bobo$282bo$278bo2bo$277bobobo$277bo2bo$278b2o!

@@ -1,0 +1,10 @@
+
+x = 92, y = 75, rule = B3/S23
+21bo11b2o$20bobo10b2o$20bobo$18b3ob2o$17bo4bo$18b5o$20bobo$b2o20bo
+$2bo$bo21bo$b2o8bo11b6o$3bo6bobo14b2o$b3o5bobo13bo2bo$o8b2o$2o$40b
+2o$39bo2bo$40b2obo$43bo$8b2o33b2o$8b2o$29b2o$23bobo3bo$24b2o4b3o$
+24bo7bo2$42b2o$42bobo$42bo18$49bo$47bobo$48b2o2$59bo7bo$59b3o4b2o$
+62bo3bobo$61b2o$82b2o$47b2o33b2o$48bo$48bob2o$49bo2bo$50b2o$90b2o$
+81b2o8bo$63bo2bo13bobo5b3o$63b2o14bobo6bo$63b6o11bo8b2o$68bo21bo$
+89bo$68bo20b2o$69bobo$69b5o$69bo4bo$68b2ob3o$69bobo$57b2o10bobo$
+57b2o11bo!

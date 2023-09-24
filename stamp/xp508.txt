@@ -1,0 +1,9 @@
+x = 69, y = 41, rule = B3/S23
+2bob2o6b2obo6b2obo13b2o$2b2obo6bob2o6bob2o12bo2bo$2o8b2o4b2o2b2o4b2o9b
+obobo$bo8bo5bo3bo5bo9b3obo4b2o$o10bo5bo3bo5bo8b3o6b2o$2o8b2o4b2o2b2o4b
+2o$2bob2o4bo5bo5b2obo$2b2obo5bo5bo4bob2o$6b2o2b2o4b2o2b2o4b2o$7bo2bo5b
+o3bo5bo$6bo4bo5bo3bo5bo9bo23b2o$6b2o2b2o4b2o2b2o4b2o8bobo22b2o$2bob2o
+6b2obo6b2obo11bo$2b2obo6bob2o6bob2o3$67b2o$43bo23bo$43b2o20bobo$42bob
+2o19b2o$40bobo13bo2b3o$37b2o3b2o12bo3b2o$37b2o3bo12b2o3b2o$37b3o2bo13b
+obo$32b2o19b2obo$31bobo20b2o$31bo23bo$30b2o4$61bo$36b2o22bobo$36b2o23b
+o6$52b2o$52b2o!

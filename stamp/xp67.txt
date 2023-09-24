@@ -1,0 +1,12 @@
+x = 64, y = 44, rule = B3/S23
+2b2obo6bob2o24b2o$2bob2o6b2obo14b2o3b2o2bobo$2o14b2o12b2o3bo3bo4bo$o
+16bo18b3ob5o$bo14bo13b4o4bobo$2o14b2o12bo2bo4bobob3o$2b2obo8b2o23b2obo
+2bo$2bob2o9bo28b2o2bo$2o4b2o6bo33b3o$o5bo7b2o20b3o12bo$bo5bo4b2o22bo
+13b2o6b2ob2o$2o4b2o5bo22bobo7b2o11bob2o$2b2obo6bo16b2o6bo8b2o11bo$2bob
+2o6b2o14bobo7bo19b2o$28bo$27b2o32b2o$31b2o19b3o5bobo$31b2o18bo2bo5bo$
+26b2o22bobobo3b3o$22b2obobo29bo3b2o$23bobo31b4o2bo$23bob2o33bob2o$20b
+2obo33b2obo$20bo2b4o31bobo$21b2o3bo29bobob2o$23b3o3bobobo22b2o$23bo5bo
+2bo18b2o$21bobo5b3o19b2o$21b2o32b2o$55bo$24b2o19bo7bobo$24bo11b2o8bo6b
+2o$21b2obo11b2o7bobo$21b2ob2o6b2o13bo$32bo12b3o$33b3o$35bo2b2o$38bo2bo
+b2o$39b3obobo4bo2bo$43bobo4b4o$39b5ob3o$39bo4bo3bo3b2o$42bobo2b2o3b2o$
+42b2o!

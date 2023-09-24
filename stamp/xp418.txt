@@ -1,0 +1,8 @@
+x = 72, y = 26, rule = B3/S23
+2o4b2o8b2o4b2obo13bo22bo$bo5bo9bo4bob2o11b3o22b3o$o5bo9bo3b2o4b2o8bo
+28bo$2o4b2o8b2o2bo5bo9b2o26b2o$2bob2o15bo5bo$2b2obo10b2o2b2o4b2o$6b2o
+9bo4b2obo16b2o14b2o$7bo8bo5bob2o5bo9bob2o12b2obo9bo$6bo9b2o2b2o4b2o3bo
+8bo2bo14bo2bo8bo$6b2o12bo5bo4bo9b2o16b2o9bo$16b2o3bo5bo6b3o28b3o$17bo
+2b2o4b2o6b2o30b2o$6b2o8bo5b2obo8b2o30b2o$6b2o8b2o4bob2o3$70b2o$62bo7bo
+$52b2o14bobo$51bo2b2o12b2o$51b2ob2o7b3o$51b3o7b2ob2o$47b2o12b2o2bo$46b
+obo14b2o$46bo7bo$45b2o!

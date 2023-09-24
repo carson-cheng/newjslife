@@ -1,0 +1,7 @@
+x = 75, y = 32, rule = B3/S23
+2o8b2o4b2obo29b2o$bo9bo4bob2o29b2o$o9bo3b2o4b2o33bo$2o8b2o2bo5bo34b3o$
+15bo5bo9b2o25bo$2o8b2o2b2o4b2o9b2o24b2o$bo9bo4b2obo$o9bo5bob2o$2o8b2o
+8b2o49b2o$20bo50b2o$2o8b2o9bo27bo$bo9bo8b2o26b3o$o9bo5b2obo27bo3bo$2o
+8b2o4bob2o6b2o19b2ob2o$25bobo$25bo47b2o$24b2o47bo$71bobo$47b2ob2o19b2o
+$47bo3bo$48b3o$49bo$26b2o$26b2o3$40b2o24b2o$40bo25b2o$41b3o$43bo$48b2o
+$48b2o!

@@ -1,0 +1,11 @@
+x = 104, y = 70, rule = B3/S23
+2o4b2obo6b2obo4b2o4b2o20b2o$bo4bob2o6bob2o5bo5bo20b2o$o3b2o4b2o2b2o8bo
+5bo21b2o$2o2bo5bo3bo9b2o4b2o21b2o$5bo5bo3bo10bob2o22b4o$2o2b2o4b2o2b2o
+10b2obo26bo$bo2bo5bo5b2obo10b2o24b2o$o4bo5bo4bob2o11bo23bo$2o2b2o4b2o
+2b2o4b2o8bo$4bo5bo3bo5bo9b2o$2o3bo5bo3bo5bo34b2o22b2o$bo2b2o4b2o2b2o4b
+2o29b2o3b2o14b2o6b2o$o5b2obo6b2obo10b2o19b2o19bo$2o4bob2o6bob2o10b2o
+41bo$72b2o3$91b2o$91b2o6bob3o$99b5o$69b2o28b2o$69b2o25bo2bo$44b2o46b2o
+3b2o$44b2o46b2o3bo7$45bob2o7bo$45b2obo5b3o$55bo3$82b2o$82b2o2$89bob2o$
+89b2obo7$40bo3b2o46b2o$39b2o3b2o46b2o$38bo2bo25b2o$37b2o28b2o$34b5o$
+34b3obo6b2o$45b2o3$64b2o$64bo$65bo19b2o$56b2o6b2o14b2o3b2o$56b2o22b2o
+3$82bo$80b2o$81bo$82b4o$83b2o$84b2o$84b2o$84b2o!

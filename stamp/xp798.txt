@@ -1,0 +1,9 @@
+x = 73, y = 31, rule = B3/S23
+ob2o6b2obo6b2obo16bo22bo$2obo6bob2o6bob2o14b3o22b3o$4b2o2b2o4b2o2b2o4b
+2o11bo28bo$5bo2bo5bo3bo5bo12b2o26b2o$4bo4bo5bo3bo5bo$4b2o2b2o4b2o2b2o
+4b2o$2b2o6b2obo6b2obo19b2o14b2o$3bo6bob2o6bob2o20bo14bo$2bo11b2o2b2o4b
+2o5b3o3b2o3b2o16b2o3b2o3b3o$2b2o10bo3bo5bo12b2o3bo18bo3b2o$2o13bo3bo5b
+o9bo32bo$bo12b2o2b2o4b2o9bo32bo$o9b2obo6b2obo11bo32bo$2o8bob2o6bob2o2$
+36b2o6bo$36bo6bobo$28b2o3b2obo7bo$28bo4bobo$29b3obo16b2o$31bob2o14bo2b
+o$49b3o$50bo$37bo$36b3o$35bo2bo14b2obo$36b2o16bob3o$52bobo4bo$43bo7bob
+2o3b2o$42bobo6bo$43bo6b2o!

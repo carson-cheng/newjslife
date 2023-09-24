@@ -1,0 +1,10 @@
+x = 82, y = 32, rule = B3/S23
+2o4b2obo6b2obo6b2obo6b2o$bo4bob2o6bob2o6bob2o6b2o$o9b2o2b2o8b2o4b2o4b
+2o17b2o10b2o$2o8bo3bo9bo5bo5bo17bo2bo8bo2bo$11bo3bo9bo5bo3bobo16b3o10b
+3o$2o8b2o2b2o8b2o4b2o3bob2o18b10o$bo4b2obo6b2obo6b2obo26bo2b6o2bo$o5bo
+b2o6bob2o6bob2o12b2o12b2o2b4o2b2o$2o8b2o2b2o4b2o2b2o4b2o4b2o4b2o$10bo
+3bo5bo3bo5bo5b2o$2o9bo3bo5bo3bo5bo$bo8b2o2b2o4b2o2b2o4b2o$o5b2obo6b2ob
+o6b2obo$2o4bob2o6bob2o6bob2o45b3o2$61bo11bo5bo$60b2o11bo5bo$46b2o11bob
+o11bo5bo$45bo2bo11bo$45bo2bo11bo$36b2o7bobo$36b2o4b2o34b2o$36b2o4b2o
+34bo$37bo41b3o$36bobo12b2o28bo$35b2obo11bo2bo$51bobo$52bo$36b2o10b2o7b
+2o$36b2o11bo7bo$46b3o9b3o$46bo13bo!

@@ -1,0 +1,7 @@
+x = 70, y = 42, rule = B3/S23
+2obo10b2o4b2obo24b2o$ob2o11bo4bob2o24b2o$4b2o8bo9b2o$4bo9b2o8bo$5bo19b
+o$4b2o8b2o8b2o$2obo11bo4b2obo22b2o$ob2o10bo5bob2o23bo$4b2o8b2o2b2o14bo
+12bo15bo$4bo13bo14bobo10bo15bobo$5bo8b2o3bo13bobo26bobo$4b2o9bo2b2o14b
+o28bo$2obo10bo5b2obo$ob2o10b2o4bob2o5$34bo2bo$34b3o$28b2o38b2o$28b2o
+38b2o$61b3o$60bo2bo7$34bo28bo$33bobo26bobo$33bobo15bo10bobo$34bo15bo
+12bo$50bo$50b2o5$48b2o$48b2o!

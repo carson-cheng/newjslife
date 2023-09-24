@@ -1,0 +1,12 @@
+x = 77, y = 41, rule = B3/S23
+2b2obo6b2obo6b2obo22b2o$2bob2o6bob2o6bob2o14bo7bo9bo$6b2o2b2o4b2o2b2o
+4b2o12b3o3bobo7b3o$6bo3bo5bo3bo5bo16bo2b2o7bo$7bo3bo5bo3bo5bo14bobo10b
+2o$6b2o2b2o4b2o2b2o4b2o15b2o19bo$2b2obo4bo5bo5b2obo17b2o6bo11b3o$2bob
+2o5bo5bo4bob2o18b2o4bobo9bob3o$2o8b2o4b2o2b2o4b2o16b2o3bo2bo8bo3bo$o9b
+o5bo3bo5bo17b2o4b2o8bo3bo$bo9bo5bo3bo5bo31b3obo$2o8b2o4b2o2b2o4b2o32b
+3o$2b2obo6b2obo6b2obo35bo$2bob2o6bob2o6bob2o8b2o5b2o$35bo5b2o32b2o$35b
+obo35bob2o$36b2o34bo$40b2o33bo$39bobo13b2o14b2obo$40bo14b2o14b2o2$36b
+2o30bo$34bob2o29bobo$33bo33b2o$36bo34b2o$32b2obo35bobo$32b2o32b2o5bo$
+66b2o5b2o$47bo$46b3o$45bob3o7b2o$44bo3bo8bo5b2o$43bo3bo9b3o3b2o$42b3ob
+o11b2o3b2o$43b3o18b2o$44bo19b2o$52b2o10bobo$53bo7b2o2bo$50b3o7bobo3b3o
+$50bo9bo7bo$59b2o!

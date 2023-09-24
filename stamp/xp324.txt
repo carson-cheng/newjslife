@@ -1,0 +1,8 @@
+x = 77, y = 49, rule = B3/S23
+2obo6b2obo4b2o4b2o22bo$ob2o6bob2o5bo5bo22b3o$4b2o8b2o2bo5bo26bo$4bo9bo
+3b2o4b2o24b2o$5bo9bo4bob2o$4b2o8b2o4b2obo$2obo6b2obo10b2o$ob2o6bob2o
+11bo$4b2o2b2o14bo19b2o$4bo3bo15b2o19bo15b2o$5bo3bo35bobo13b2o$4b2o2b2o
+36b2o$2obo6b2obo10b2o$ob2o6bob2o10b2o$37b2o$37b2o$68bo$66b3o$65bo$65b
+2o$75b2o$42b3o30bo$38b3ob3o28bobo$38bo5bo28b2o$38bo3b2o$30b2o7bo3bo$
+29bobo8b3o$29bo$28b2o$38b2o$39bo15b2o$36b3o16b2o$36bo$66b2o$66b2o3$57b
+2o$42b2o13bobo$42b2o15bo$59b2o2$48b2o$48b2o2$53b2o$53bo$54b3o$56bo!

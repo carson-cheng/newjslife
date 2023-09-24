@@ -1,0 +1,10 @@
+x = 92, y = 57, rule = B3/S23
+2o4b2o4b2obo6b2obo19b2o28b2o$bo5bo4bob2o6bob2o19b2o28b2o$o5bo3b2o4b2o
+2b2o$2o4b2o2bo5bo3bo$2bob2o5bo5bo3bo$2b2obo4b2o4b2o2b2o$6b2o4b2obo6b2o
+bo$7bo4bob2o6bob2o$6bo3b2o4b2o2b2o4b2o$6b2o2bo5bo3bo5bo$11bo5bo3bo5bo$
+10b2o4b2o2b2o4b2o$6b2o4b2obo6b2obo$6b2o4bob2o6bob2o5$35bo50bo$33b3o50b
+3o$32bo3b2o46b2o3bo$31bob2o3bo27bo16bo3b2obo$31bobob3o27b2o16b2o3bobo$
+30b2obo2bo27b2o17b3o2bob2o$33bo50bobobo$33bobo29bo18bobobo$32b2ob2o48b
+2ob2o4$32b2ob2o48b2ob2o$33bobobo18bo29bobo$33bobobo50bo$30b2obo2b3o17b
+2o27bo2bob2o$31bobo3b2o16b2o27b3obobo$31bob2o3bo16bo27bo3b2obo$32bo3b
+2o46b2o3bo$33b3o50b3o$35bo50bo17$45b2o28b2o$45b2o28b2o!

@@ -1,0 +1,11 @@
+x = 87, y = 66, rule = B3/S23
+2b2obo4b2o4b2o4b2obo18b2o$2bob2o5bo5bo4bob2o18b2o$6b2o2bo5bo3b2o4b2o$
+6bo3b2o4b2o2bo5bo$7bo4bob2o5bo5bo$6b2o4b2obo4b2o4b2o22b2o$2b2obo10b2o
+4b2obo24b2o$2bob2o11bo4bob2o$2o14bo9b2o37bo$o15b2o8bo37bobo$bo25bo36bo
+bo$2o24b2o35b2ob2o$2b2obo10b2o4b2obo$2bob2o10b2o4bob2o37b2ob2o$63b2obo
+bo$69bo$31b2o34b3o5b2o$32bo33bo9bo$32bobo31b2o8bob2o$33b2o42bobo$79bob
+2obo$78b2obob2o2$59b2o$59b2o2$43b3o17b3o$43b5o$43bo3b2o$45bo2bo$45b2o$
+30b2o51b2o$31bo51bobo$31bobo51bo$32b2o51b2o$70b2o$68bo2bo$68b2o3bo$69b
+5o$51b3o17b3o2$56b2o$56b2o$32b2o$32bo2bob2o$34b2obo$37bobo42b2o$37b2ob
+o8b2o31bobo$40bo9bo33bo$40b2o5b3o34b2o$47bo$48bobob2o$49b2ob2o2$49b2ob
+2o$50bobo$50bobo$51bo2$65b2o$65b2o4$71b2o$71b2o!

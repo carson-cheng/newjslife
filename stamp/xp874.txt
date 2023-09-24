@@ -1,0 +1,7 @@
+x = 71, y = 46, rule = B3/S23
+2b2obo6bob2o4b2o4b2o11bo22bo$2bob2o6b2obo5bo5bo9b3o22b3o$2o4b2o8b2o2bo
+5bo9bo28bo$o5bo10bo2b2o4b2o8b2o26b2o$bo5bo8bo5bob2o$2o4b2o8b2o4b2obo$
+2b2obo8b2o10b2o14b2o14b2o$2bob2o9bo11bo3bo9bob2o12b2obo9bo$2o4b2o6bo
+11bo4bo8bo2bo14bo2bo8bo$o5bo7b2o10b2o3bo9b2o16b2o9bo$bo5bo4b2o20b3o28b
+3o$2o4b2o5bo20b2o30b2o$2b2obo6bo13b2o6b2o30b2o$2bob2o6b2o12b2o4$45b2o$
+45b2o8$45b3o3b3o$44bo2bo3bo2bo$44b2obo3bob2o16$45b2o5b2o$45b2o5b2o!

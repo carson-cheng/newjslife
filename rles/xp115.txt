@@ -1,0 +1,7 @@
+
+x = 35, y = 44, rule = B3/S23
+20bo$7b2o9b3o$7b2o8bo$17b2o6$29bo$28bobo$28bobo$10bo16b2ob2o$10bo
+20bo$o8bobo15b2obo$3o7bobo14b2obobo$3bo6b3o18b2o$2b2o7bo3$3b2o$3b
+2o$30b2o$30b2o3$23bo7b2o$2b2o18b3o6bo$2bobob2o14bobo7b3o$4bob2o15b
+obo8bo$3bo20bo$3b2ob2o16bo$4bobo$4bobo$5bo6$16b2o$17bo8b2o$14b3o9b
+2o$14bo!
