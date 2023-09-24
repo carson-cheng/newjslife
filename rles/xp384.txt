@@ -1,4 +1,0 @@
-
-x = 19, y = 30, rule = B3/S23
-7b2o$bob2obobo$b2obobo$5b2o8$2o$2o5b2o$7b2o$7bo2$4b3o$3b3o11b2o$3b
-obo11b2o$3b2obo5b3o7$12b2o$12bobob2o$10bobob2obo$10b2o!

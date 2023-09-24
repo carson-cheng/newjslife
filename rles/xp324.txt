@@ -1,7 +1,0 @@
-
-x = 49, y = 49, rule = B3/S23
-20bo$20b3o$23bo$22b2o5$16b2o$17bo15b2o$17bobo13b2o$18b2o3$9b2o$9b
-2o$40bo$38b3o$37bo$37b2o$47b2o$14b3o30bo$10b3ob3o28bobo$10bo5bo28b
-2o$10bo3b2o$2b2o7bo3bo$bobo8b3o$bo$2o$10b2o$11bo15b2o$8b3o16b2o$8b
-o$38b2o$38b2o3$29b2o$14b2o13bobo$14b2o15bo$31b2o2$20b2o$20b2o2$25b
-2o$25bo$26b3o$28bo!

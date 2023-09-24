@@ -1,6 +1,0 @@
-
-x = 19, y = 39, rule = B3/S23
-3bo$3b3o$6bo$5b2o2$2o6b2o$obo4bobo$2bo4b2o$2b3o$5bo$4b2o2$17bo$5bo
-11bo$5b2o9bobo$4bo2bo9bo$2o4b2o9bo$2o15bo$17bo$16bobo$17bo$2o15bo$
-2o4b2o$4bo2bo$5b2o$5bo3$4b2o$5bo$2b3o$2bo4b2o$obo4bobo$2o6b2o2$5b
-2o$6bo$3b3o$3bo!

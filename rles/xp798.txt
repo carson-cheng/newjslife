@@ -1,7 +1,0 @@
-
-x = 45, y = 31, rule = B3/S23
-12bo22bo$10b3o22b3o$9bo28bo$9b2o26b2o3$15b2o14b2o$16bo14bo$3b3o3b
-2o3b2o16b2o3b2o3b3o$9b2o3bo18bo3b2o$7bo32bo$7bo32bo$7bo32bo3$8b2o
-6bo$8bo6bobo$2o3b2obo7bo$o4bobo$b3obo16b2o$3bob2o14bo2bo$21b3o$22b
-o$9bo$8b3o$7bo2bo14b2obo$8b2o16bob3o$24bobo4bo$15bo7bob2o3b2o$14bo
-bo6bo$15bo6b2o!

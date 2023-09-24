@@ -1,5 +1,0 @@
-
-x = 25, y = 40, rule = B3/S23
-b2o5b2o$b2o5b2o3$3o5b3o$obo5bobo$o2bo3bo2bo$b2o5b2o$2b2o3b2o3$22b
-2o$22b2o$b2o5b2o$b2o5b2o6$15b3o3b3o$14bo2bo3bo2bo$14b2obo3bob2o16$
-15b2o5b2o$15b2o5b2o!

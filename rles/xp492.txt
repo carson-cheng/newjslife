@@ -1,6 +1,0 @@
-
-x = 43, y = 40, rule = B3/S23
-3b2o$2bobo$b3o$b2o$2bobo$3bobo2b2o$4bo2bobo$5b4o$6b2o32b2o$40bo$
-22bo18bo$21bo18b2o$22bo$29b2o$29b2o6$22bo$21b3o15b2o$20b5o14bobo$
-24b2o15bo$2b2o16bo3b3o14b2o$bobo17b2obo$bo19b2o$2o5$32b2o$32b2o2$
-32bo$31bobo$31bo2bo2b2o$35bob2o$33b2o!

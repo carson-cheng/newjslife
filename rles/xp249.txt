@@ -1,9 +1,0 @@
-
-x = 57, y = 66, rule = B3/S23
-14b2o$14b2o4$20b2o$20b2o2$35bo$34bobo$34bobo$33b2ob2o2$33b2ob2o$
-33b2obobo$39bo$b2o34b3o5b2o$2bo33bo9bo$2bobo31b2o8bob2o$3b2o42bobo
-$49bob2obo$48b2obob2o2$29b2o$29b2o2$13b3o17b3o$13b5o$13bo3b2o$15bo
-2bo$15b2o$2o51b2o$bo51bobo$bobo51bo$2b2o51b2o$40b2o$38bo2bo$38b2o
-3bo$39b5o$21b3o17b3o2$26b2o$26b2o$2b2o$2bo2bob2o$4b2obo$7bobo42b2o
-$7b2obo8b2o31bobo$10bo9bo33bo$10b2o5b3o34b2o$17bo$18bobob2o$19b2ob
-2o2$19b2ob2o$20bobo$20bobo$21bo2$35b2o$35b2o4$41b2o$41b2o!

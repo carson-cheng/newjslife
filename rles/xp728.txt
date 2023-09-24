@@ -1,9 +1,0 @@
-
-x = 43, y = 73, rule = B3/S23
-33b2o$33b2o3$33bo$31bobo$29bo2b2o$30b2o$30bo2$29b2o$13b2o14b2o3b2o
-$14bo19b2o$13bo$13b2o2$2o$bo$bobo$2b2o$16b2o$5b2o9b2o$5bobo33b2o$
-7bo33b2o$3b4o$2bo$2b2ob2o$3bobo$3bobo$4bo$38b2obo$38bob2o2$31b2o$
-31b2o4$10b2o$10b2o2$b2obo$bob2o$38bo$37bobo$37bobo$36b2ob2o$40bo$
-36b4o$2o34bo$2o25b3o7bo$27bo8bobo$27b2o$40bo$38b2obo$41bo$41b2o2$
-28b2o$29bo$7b2o19bo$7b2o3b2o14b2o$12b2o2$12bo$11b2o$9b2o2bo$9bobo$
-9bo3$8b2o$8b2o!

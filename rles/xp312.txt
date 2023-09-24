@@ -1,5 +1,0 @@
-
-x = 42, y = 42, rule = B3/S23
-20b2o$20b2o5$18b2o$19bo$6bo12bo15bo$5bobo10bo15bobo$5bobo26bobo$6b
-o28bo7$6bo2bo$6b3o$2o38b2o$2o38b2o$33b3o$32bo2bo7$6bo28bo$5bobo26b
-obo$5bobo15bo10bobo$6bo15bo12bo$22bo$22b2o5$20b2o$20b2o!
