@@ -2,7 +2,7 @@
 import lifelib, glob
 sess = lifelib.load_rules('b3s23')
 lt = sess.lifetree(n_layers=1)
-files = glob.glob("apgcodes/*.txt")
+files = glob.glob("apgcodes/deduped/*.txt")
 limits = [0, 1048576]
 includes = [486, 972]
 for file in files:

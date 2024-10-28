@@ -4283,3 +4283,12 @@ x = 17, y = 17, rule = B3/S23
 10b2o$10bo$8bobo$7bobob2o$3b2o2bobo2bo$o2bobo3bobo$3o$3b3o6b2o$2bo
 11bo$3b2o6b3o$14b3o$5bobo3bobo2bo$4bo2bobo2b2o$4b2obobo$6bobo$6bo$
 5b2o!
+
+x = 5, y = 5, rule = B3/S23
+2o$obo2$2bobo$3b2o!
+
+x = 7, y = 7, rule = B3/S23
+2b2ob2o$bobob2o$o2bo$2o3b2o$3bo2bo$2obobo$2ob2o!
+
+x = 6, y = 6, rule = B3/S23
+2o2b2o$o2bobo$bo$4bo$obo2bo$2o2b2o!
