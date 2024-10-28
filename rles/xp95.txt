@@ -9,3 +9,14 @@ $14b2o17bobo16b3ob2ob3o$15bo19bo4b2o9bo3bo2bo3bo$12b3o20b2o3b2o5bo
 3b2ob2o2b4obo$12bo31bob2o4bobo3bo4bo$44b2obo4bobo4bobobobo$42b2o3b
 2o4bo5bo2bob2o$21b2o18bo2b3o13bobo$22bo18b2obo16b2o$19b3o22bo$19bo
 24b2o!
+
+x = 37, y = 62, rule = B3/S23
+28b2o$27bo2bo$27bobo2bo2bo$26b2obob5o$26bo2bo$27bo2b4o$26bo2b2o3bo
+$27bo2b3obo$26bo2bo3bo$26b2obob2o$6b2o19bobobo$7bo19bobo2bo$7bobo
+18bo2b2o$8b2o9b2o$18bo2bo$19b3o8bobo$29b2ob2o$2o17bo9bo3bo$bo18b2o
+9bobo2bo$bobo26b2ob4o$2b2o28bo$32bobo$28b2o3b2o$18bo9b2o$16bo2b2o$
+16bo2bo$16b3o$29bo$27b3o$26bo$26b2o$9b2o$10bo$7b3o$7bo$18b3o$17bo
+2bo$16b2o2bo$7b2o9bo$2b2o3b2o$2bobo$4bo28b2o$4ob2o26bobo$o2bobo9b
+2o18bo$3bo3bo9bo17b2o$3b2ob2o$4bobo8b3o$15bo2bo$16b2o9b2o$4b2o2bo
+18bobo$4bo2bobo19bo$5bobobo19b2o$4b2obob2o$3bo3bo2bo$2bob3o2bo$2bo
+3b2o2bo$3b4o2bo$7bo2bo$b5obob2o$bo2bo2bobo$6bo2bo$7b2o!

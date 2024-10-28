@@ -1,10 +1,14 @@
-x = 285, y = 49, rule = B3/S23
-2b2obo6bob2o10bo11bo$2bob2o6b2obo10b3o7b3o$2o4b2o2b2o17bo5bo$o5bo4bo
-16b2o5b2o239b2o$bo5bo2bo265bo$2o4b2o2b2o20b2o228b2o10bobo$2b2obo6bob2o
-16b2o228b2o10b2o$2bob2o6b2obo16bobo$2o4b2o8b2o15b2o$o5bo10bo15b2o$bo5b
-o8bo9b2o$2o4b2o8b2o8bobob2o5b2o$2b2obo6bob2o6bob2o2bob2o5bo$2bob2o6b2o
-bo6b2obobo10b3o$27b2ob2o8bo$22b3obo4bo$21bo4bob3o$22bobo2b2o$21b2obo$
-20bo2bo3b2o237b3o14b2o$20b2o5b2o238bo12b2o2bo$266bo12b2ob2o$279b2o$
-279b2o$279b2ob2o$256b2o22b2o2bo$256bo2b2o22b2o$257b2ob2o$260b2o$260b2o
-$257b2ob2o12bo$256bo2b2o12bo$256b2o14b3o13$265b2o10b2o$264bobo10b2o$
-264bo$263b2o!
+#CXRLE Pos=-5,0
+x = 371, y = 49, rule = B3/S23
+2b2obo6bob2o21b2o5bo155bo11bo$2bob2o6b2obo21bo6b3o153b3o7b3o$2o4b2o2b
+2o23bobo9bo155bo5bo$o5bo4bo19b2o2b2o9b2o154b2o5b2o151b2o$bo5bo2bo13bo
+6b2o329bo$2o4b2o2b2o11bobo180b2o140b2o10bobo$2b2obo6bob2o7bobo25b2o
+153b2o140b2o10b2o$2bob2o6b2obo5b3ob2o23bo2bo152bobo$2o4b2o8b2o2bo31b2o
+153b2o$o5bo10bo3b3ob2o22b4o154b2o$bo5bo8bo6bob2o9bo13bo9b2obo136b2o$2o
+4b2o8b2o16b4o22b2ob3o134bobob2o5b2o$2b2obo6bob2o17b2o31bo129bob2o2bob
+2o5bo$2bob2o6b2obo17bo2bo23b2ob3o130b2obobo10b3o$34b2o25bobo137b2ob2o
+8bo$61bobo132b3obo4bo$54b2o6bo132bo4bob3o$39b2o9b2o2b2o140bobo2b2o$39b
+o9bobo143b2obo$40b3o6bo144bo2bo3b2o149b3o14b2o$42bo5b2o144b2o5b2o150bo
+12b2o2bo$352bo12b2ob2o$365b2o$365b2o$365b2ob2o$342b2o22b2o2bo$342bo2b
+2o22b2o$343b2ob2o$346b2o$346b2o$343b2ob2o12bo$342bo2b2o12bo$342b2o14b
+3o13$351b2o10b2o$350bobo10b2o$350bo$349b2o!

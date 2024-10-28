@@ -1,0 +1,27 @@
+
+x = 85, y = 123, rule = B3/S23
+30b2o$29bobo$23b2o4bo$21bo2bo2b2ob4o$21b2obobobobo2bo$24bobobobo$
+24bobob2o$25bo2$14b2o22b2o$14bobob2o9b2o7bo$16bobo10b2o5bobo$15bo
+2bo17b2o$15bobo$16bo5$2o24b2o$2o11bo13bo$12b3o9b3o$11bo3bo8bo$11b
+2ob2o5bo$21b6o$26bo$23b3o$23bo3$3bob2o$b3ob2o$o$b3ob2o$3bobo$3bobo
+$4bo$51b3o$51bo$52bo3$13b2o$13b2o12$27b2o$24b3ob2o$24b5o$2b2o21b3o
+$2bobo$3bo9b2o$12bo2bo$13b2o66bo$80bobo$81b2o$14b5o$14bo4bo$14bo$
+15bo3bo$17bo7$71bo$70b3o$69bo2b2o2$68b2o$69bo$68bobo$68bo2bo$68b2o
+2$80bo$79bobo$79bobo$78b2ob3o$84bo$78b2ob3o$78b2obo2$70b2o$61bo8b
+2o$59b3o$58bo$58b6o$63bo$60bo$58b3o$57bo25b2o$57b2o24b2o$52bo$53b
+2o$52b2o2$68bo$67bobo$47b2o17bo2bo$46bobo5b2o10bobo$46bo7b2o9b2obo
+bo$45b2o22b2o2$59bo$55b2obobo$54bobobobo$51bo2bobobobob2o$51b4ob2o
+2bo2bo$55bo4b2o$53bobo$53b2o!
+
+x = 123, y = 85, rule = B3/S23
+19b2o$19b2o8b2o$29bo2b2o24b2o$30b2ob3o22bobo$36bo22bo$30b2ob3o$30b
+2obo6$43b3o$27b2o9bo6bo$27b2o10b2o4bo$12b2o24b2obob2o$11bo2bo23bo
+2bo$10bob2o$10bo$9b2o$24b2o$3b2o19bo$4bo20b3o$2bo24bo$2b5o14b2o$7b
+o13bo$4b3o12bobo$3bo15b2o$3b4o$b2o3bo3b2o$o2b3o4b2o72bo$2obo12b3o
+66bo$3bo12bo66b3o$3b2o12bo3$11b2o$12bo$9b3o$9bo6$113bo$111b3o$110b
+o$110b2o3$118b2o$119bo$119bob2o$111b2o4b3o2bo$111b2o3bo3b2o$66bo
+49b4o$65b3o34b2o15bo$65bob2o32bobo12b3o$66b3o32bo13bo$66b3o31b2o
+14b5o$66b2o27bo24bo$95b3o20bo$98bo19b2o$97b2o$55b2o55b2o$54b3o55bo
+$54b3o52b2obo$54b2obo50bo2bo$55b3o3bo37b2o8b2o$56bo3bobo16b2o18b2o
+$60bobo16b2o20bo$61bo37b2o$99b2o$60bo$60bo3$89bob2o$87b3ob2o$63bo
+22bo$62bobo22b3ob2o$63b2o24b2o2bo$92b2o8b2o$102b2o!

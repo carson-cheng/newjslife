@@ -1,0 +1,5 @@
+
+x = 27, y = 22, rule = B3/S23
+2bo$bobo9b2o$bobo10bo$2ob3o5b3o$2bo2bo5bo$2bob2o$3bo2bo6bo$4b4o4bo
+bo$13bo$4b2o$4bo12b2o$5bo3b2o5bo2bo$4b2o3b2o5bo2bo$16bobo$17bobo$
+16bo2bo5b2o$16bo2bo5b2o$17b2o2$22bo$21bobo$22bo!

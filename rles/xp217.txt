@@ -1,0 +1,37 @@
+
+x = 74, y = 74, rule = B3/S23
+31bobo2bobo$29b2o2b4o2b2o$23b2o5b2o6b2o5b2o$23b2o6bo6bo6b2o8$23b2o
+6bo6bo6b2o$23b2o5b2o6b2o5b2o$29b2o2b4o2b2o$31bobo2bobo8$28b5o$28bo
+2b2o28b2o7b2o$29b3o29b2o7b2o$30bo2$2b2o7b2o$2b2o7b2o37b2o$49bobo8b
+o11bo$48b2obo8b2o9b2o$49b3o7bob2o7b2obo$50b2o$bo11bo45b2o11b2o$b2o
+9b2o46bo11bo$ob2o7b2obo45bo11bo$59b2o11b2o$2o11b2o$bo11bo45bob2o7b
+2obo$bo11bo46b2o9b2o$2o11b2o45bo11bo$22b2o$ob2o7b2obo7b3o$b2o9b2o
+8bob2o$bo11bo8bobo$22b2o37b2o7b2o$61b2o7b2o2$43bo$2b2o7b2o29b3o$2b
+2o7b2o28b2o2bo$41b5o8$35bobo2bobo$33b2o2b4o2b2o$27b2o5b2o6b2o5b2o$
+27b2o6bo6bo6b2o8$27b2o6bo6bo6b2o$27b2o5b2o6b2o5b2o$33b2o2b4o2b2o$
+35bobo2bobo!
+
+x = 76, y = 76, rule = B3/S23
+29b2o2b2o$26bo10bo$20b2o4bob2o4b2obo4b2o$20b2o5b3o4b3o5b2o8$20b2o
+5b3o4b3o5b2o$20b2o4bob2o4b2obo4b2o$26bo10bo$29b2o2b2o6$63b2o7b2o$
+63b2o7b2o4$47bo$46b2o14b2o9b2o$45b3o16bo7bo$25b3o16b2o17b2o7b2o$
+26b2obo15b2o14bob2o7b2obo$27b3o31bo13bo$28bo$2b2o7b2o$2b2o7b2o48bo
+13bo$61bob2o7b2obo$63b2o7b2o$64bo7bo$62b2o9b2o$b2o9b2o$3bo7bo$2b2o
+7b2o$ob2o7b2obo$o13bo48b2o7b2o$63b2o7b2o$47bo$o13bo31b3o$ob2o7b2ob
+o14b2o15bob2o$2b2o7b2o17b2o16b3o$3bo7bo16b3o$b2o9b2o14b2o$28bo4$2b
+2o7b2o$2b2o7b2o6$41b2o2b2o$38bo10bo$32b2o4bob2o4b2obo4b2o$32b2o5b
+3o4b3o5b2o8$32b2o5b3o4b3o5b2o$32b2o4bob2o4b2obo4b2o$38bo10bo$41b2o
+2b2o!
+
+x = 77, y = 65, rule = B3/S23
+18b2obo2bob2o$11b2o4bo2bo4bo2bo4b2o$6o5b2o5bobo4bobo5b2o$4o15bo6bo
+$3bobo$5b2o$2bo2bob2o$bo3bob2o$2obo3bo$2obo2bo12bo6bo$2b2o7b2o5bob
+o4bobo5b2o$3bobo5b2o4bo2bo4bo2bo4b2o$5b4o9b2obo2bob2o$3b6o2$44bo$
+43bobo$43bob3o$7b3o30b2obo4bo$10bo29bobobobobo$7b2obo31bobob2o4b2o
+$9bo31bobo8bo$30b2o10bo7bobo$31bo18b2o$3b2o26bobo$2bobo27b2o$2bo$b
+2o33b2o$36b2o8$39b2o$39b2o33b2o$74bo$43b2o27bobo$43bobo26b2o$25b2o
+18bo$24bobo7bo10b2o$24bo8bobo31bo$23b2o4b2obobo31bob2o$28bobobobob
+o29bo$28bo4bob2o30b3o$29b3obo$31bobo$32bo2$68b6o$49b2obo2bob2o9b4o
+$42b2o4bo2bo4bo2bo4b2o5bobo$42b2o5bobo4bobo5b2o7b2o$50bo6bo12bo2bo
+b2o$69bo3bob2o$68b2obo3bo$68b2obo2bo$70b2o$71bobo$50bo6bo15b4o$42b
+2o5bobo4bobo5b2o5b6o$42b2o4bo2bo4bo2bo4b2o$49b2obo2bob2o!

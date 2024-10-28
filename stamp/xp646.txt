@@ -1,0 +1,14 @@
+#CXRLE Pos=-5,0
+x = 106, y = 55, rule = B3/S23
+2b2obo4b2o4b2o4b2obo$2bob2o5bo5bo4bob2o8b2o64b2o$2o8bo5bo3b2o13bo16b2o
+28b2o16bo$o9b2o4b2o2bo12bo18b2o28b2o18bo$bo10bob2o5bo11b5o60b5o$2o10b
+2obo4b2o9b2o4bo60bo4b2o$2b2obo10b2o4b2obo4bo2b2o66b2o2bo$2bob2o11bo4bo
+b2o4b2obo68bob2o$2o4b2o8bo3b2o4b2o5bo68bo$o5bo9b2o2bo5bo6b2o66b2o$bo5b
+o13bo5bo$2o4b2o12b2o4b2o$2b2obo10b2o4b2obo31b2o18b2o$2bob2o10b2o4bob2o
+31bobo16bobo$59bo16bo$59b2o14b2o7$48b2o36b2o$47bo2bo34bo2bo$48b2o36b2o
+3$32b2o68b2o$32b2o40bo27b2o$72b2o$73b2o4$64b2o$64b2o3$33bo68bo$33b3o
+64b3o$36bo62bo$35bo2bo25b2o4b2o25bo2bo$35b4o25b2o4b2o25b4o2$37b2o8b2o
+38b2o8b2o$37bo9b2o38b2o9bo$34b2obo15b2o26b2o15bob2o$34bo2bob2o3b2o7bo
+28bo7b2o3b2obo2bo$36b2obo3bo2bo7b3o22b3o7bo2bo3bob2o$40bo3b2obo8bo22bo
+8bob2o3bo$41bo5bo40bo5bo$39bob6o42b6obo$38bobo3bo46bo3bobo$38bo2bo52bo
+2bo$39b2o54b2o!

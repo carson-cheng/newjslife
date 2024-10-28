@@ -1,0 +1,8 @@
+
+x = 38, y = 48, rule = B3/S23
+28bo$23bo3bobo$21b3o3bobo$20bo5b2ob3o$20b2o10bo$6bo19b2ob3o$5bobo
+18b2obo$5bobo$3b3ob2o24bo$2bo29bobo$3b3ob2o23bobo$5bob2o22b2ob3o$
+37bo$20bo10b2ob3o$20bo10b2obo$17b2o$17b2o$17b2o2$31b2o$31bobo$33bo
+$33b2o3$3b2o$4bo$4bobo$5b2o2$19b2o$19b2o$19b2o$3bob2o10bo$b3ob2o
+10bo$o$b3ob2o22b2obo$3bobo23b2ob3o$3bobo29bo$4bo24b2ob3o$30bobo$8b
+ob2o18bobo$6b3ob2o19bo$5bo10b2o$6b3ob2o5bo$8bobo3b3o$8bobo3bo$9bo!

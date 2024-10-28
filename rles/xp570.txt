@@ -1,0 +1,10 @@
+
+x = 23, y = 38, rule = B3/S23
+6b2o$7bo$7bobo$8b2o4$12b3o5bo$12bobo5bo$12bo7bo2$21bo$o20b2o$2o19b
+2o$2o20bo$bo2$2bo7bo$2bo5bobo$2bo5b3o4$13b2o$13bobo$15bo$15b2o4$9b
+3o$9bobo$9b3o$9b3o$9b3o$9b3o$9bobo$9b3o!
+
+x = 44, y = 27, rule = B3/S23
+o42bo$3o38b3o$3bo36bo$2b2o36b2o3$13b2o14b2o$14bo14bo$b3o3b2o3b2o
+16b2o3b2o3b3o$7b2o3bo18bo3b2o$5bo32bo$5bo32bo$5bo32bo5$20bo$20bo$
+19bobo$20bo$20bo$20bo$20bo$19bobo$20bo$20bo!

@@ -1,0 +1,18 @@
+
+x = 75, y = 51, rule = B3/S23
+59bo$58bobo$59bo3$64b2o$39b2o23b2o$40bo31b2o$40bobo29bo$41b2o27bob
+o$64b2o4b2o$64b2o2$30b2o$31bo$31bobo$32b2o34b2obo$45b3o20b2ob3o$
+45bo28bo$30b2o13b3o20b2ob3o$30b2o37bobo$69bobo$70bo6$4bo$3bobo$3bo
+bo37b2o$b3ob2o20b3o13b2o$o28bo$b3ob2o20b3o$3bob2o34b2o$41bobo$43bo
+$43b2o2$9b2o$3b2o4b2o$2bobo27b2o$2bo29bobo$b2o31bo$9b2o23b2o$9b2o
+3$15bo$14bobo$15bo!
+
+x = 66, y = 51, rule = B3/S23
+44bo2bo2bo$10bo33b7o$9b3o$44b7o$44bo2bo2bo$9b3o2$9bobo$9bobo2$9b3o
+35b2o$46b4o2b2o$37b2o7bo2bo2b2o$9b3o8bo2bob2obo2bo5b2o9bo$10bo8b2o
+2bo4bo2b2o$20bo2bob2obo2bo$37b2o$36b2obo$36b2o23b2ob2o$37b2o23bobo
+$21b2o7bo22b2o7bobo$21bo7bo24b2o5b2ob2o$19bobo7b3o20bob2o6bobo$2b
+2o15b2o32b2o7bobo$bobo11bo45b2ob2o$bo12bobo$2o12bobo26bo9b2o$15bo
+22b2o2bo2bo7b2o$38b2o2b4o$43b2o3$18bobo$18b2o$19bo$27b8o6bo2bo2bo$
+27bob4obo6b7o$9b2o16b8o$8bobo6b2o22b7o$8bo8b2o22bo2bo2bo$7b2o6$12b
+2o6b2o$11bo2bo4bo2bo$11bo2bo4bo2bo$11bo2bo4bo2bo$12b2o6b2o!

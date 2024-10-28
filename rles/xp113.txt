@@ -18,15 +18,36 @@ $3bo15b2o30bob2o$3b4o32bo3b2o4b3o2bo$b2o3bo3b2o28b2ob2o3bo3b2o$o2b
 3o$9bo5$40b2o$33b2o5bobo$33b2o7bo$42b2o2$29bo$28bobob2o$28bobobobo
 $25b2obobobobo2bo$25bo2bo2b2ob4o$27b2o4bo$33bobo$34b2o!
 
-x = 49, y = 37, rule = B3/S23
-45b2o$45bo$43bobo$43b2o7$29bo16b2o$12b2o4b2o8bobo15b2o$12b2o4b2o$
-26bo2b2o$26b3o$18b2o$18b2o25b2o$o31b2o11bo$3o12b2o15b2o12b3o$3bo
-11b2o31bo$2b2o25b2o$29b2o$20b3o$18b2o2bo$29b2o4b2o$b2o15bobo8b2o4b
-2o$b2o16bo7$4b2o$3bobo$3bo$2b2o!
-
 x = 58, y = 37, rule = B3/S23
 42b2o$42b2o5b2o$49b2o$13b2o$14bo$13bo33b2o$13b2o32b2o$53b2o$2o51b
 2o$bo$bob2o$2bo$14b2o$4bobo8bo$5bo7b3o$6bo46bo$3b4o45bobo$2bo49bob
 o$2b2ob2o44b2ob2o$3bobo49bo$3bobo45b4o$4bo46bo$42b3o7bo$42bo8bobo$
 42b2o$55bo$53b2obo$56bo$3b2o51b2o$3b2o$9b2o32b2o$9b2o33bo$43bo$43b
 2o$7b2o$7b2o5b2o$14b2o!
+
+x = 49, y = 37, rule = B3/S23
+45b2o$45bo$43bobo$43b2o7$29bo16b2o$12b2o4b2o8bobo15b2o$12b2o4b2o$
+26bo2b2o$26b3o$18b2o$18b2o25b2o$o31b2o11bo$3o12b2o15b2o12b3o$3bo
+11b2o31bo$2b2o25b2o$29b2o$20b3o$18b2o2bo$29b2o4b2o$b2o15bobo8b2o4b
+2o$b2o16bo7$4b2o$3bobo$3bo$2b2o!
+
+x = 41, y = 51, rule = B3/S23
+19bo$19b3o$22bo4b2o$21b2o4b2o2$39b2o$39bo$37bobo$37b2o5$13b2o$13b
+2o$26b3o$20b2o3bo2bo$20b2o3bo2bo2$13b2o2b2o5b2o$13b2o2b2o5bo10$16b
+o5b2o2b2o$15b2o5b2o2b2o2$12bo2bo3b2o$12bo2bo3b2o$12b3o$26b2o$26b2o
+5$2b2o$bobo$bo$2o2$12b2o4b2o$12b2o4bo$19b3o$21bo!
+
+x = 56, y = 110, rule = B3/S23
+3b2o$4bo$4bobo$5b2o6$15b2o$2b2o10bobo$2b2o10bo15b2o4b2o$14b3o2bo
+10b2o4b2o$17b2obo$17b2obo$19bo10b2o$2b2o26b2o$bobo12b2o$bo14b2o15b
+2o$2o31b2o$19b2o$19b2o10bo$30bob2o$30bob2o$13b2o4b2o10bo2b3o$13b2o
+4b2o15bo10b2o$34bobo10b2o$34b2o10$23b2o$24bo$24bobo$22b2ob2o$21bob
+o21b2o$21bobo5bo16bo$19b3ob2o4b2o14bo$18bo11b2o14b3o$19b3ob2o6b3o
+14bo$14bo6bob2o6b3o$14b3o13b2o2bo$17bo15b2o$16b2o15b2o$42b2o$28bo
+12bobo$29bo12bo$28b3o$28b3o$25b3o$25b3o$13bo12bo$12bobo12bo$12b2o$
+21b2o15b2o$21b2o15bo$21bo2b2o13b3o$22b3o6b2obo6bo$7bo14b3o6b2ob3o$
+7b3o14b2o11bo$10bo14b2o4b2ob3o$9bo16bo5bobo$9b2o21bobo$29b2ob2o$
+29bobo$31bo$31b2o10$20b2o$7b2o10bobo$7b2o10bo15b2o4b2o$19b3o2bo10b
+2o4b2o$22b2obo$22b2obo$24bo10b2o$35b2o$21b2o31b2o$21b2o15b2o14bo$
+38b2o12bobo$24b2o26b2o$24b2o10bo$35bob2o$35bob2o$18b2o4b2o10bo2b3o
+$18b2o4b2o15bo10b2o$39bobo10b2o$39b2o6$49b2o$49bobo$51bo$51b2o!

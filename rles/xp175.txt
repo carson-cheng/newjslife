@@ -1,0 +1,11 @@
+
+x = 55, y = 69, rule = B3/S23
+4b2o$4bo$6b2o$2b4ob2o8b2o7bo$bo3bo11b2o5b3o$o2bo2bo16bo$b5o17b2o$
+6bo$3b2o3b2o$b3o2bobo$o4bobo$5o2bo$3bo3bo11bob2o3b2o$2ob2ob2o10bo
+3bo3b2o$bobo3bo14bo$bobob2o10bo3bo$2obobo15bo$3bobo11bo2bo$3b2o12b
+3o2$37bo$35b3o$34bo$34b2o$21b3o$24bo$21bo2bo$22b2o14$31b2o$30bo2bo
+$30bo$31b3o$19b2o$20bo$17b3o$17bo2$35b3o12b2o$34bo2bo11bobo$33bo
+15bobob2o$33bo3bo10b2obobo$32bo14bo3bobo$27b2o3bo3bo10b2ob2ob2o$
+27b2o3b2obo11bo3bo$47bo2b5o$47bobo4bo$46bobo2b3o$45b2o3b2o$48bo$
+30b2o17b5o$31bo16bo2bo2bo$28b3o5b2o11bo3bo$28bo7b2o8b2ob4o$47b2o$
+50bo$49b2o!

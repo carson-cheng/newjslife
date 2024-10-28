@@ -1,3 +1,4 @@
+#CXRLE Pos=-5,0
 x = 79, y = 39, rule = B3/S23
 2o4b2obo10b2o4b2obo35bo$bo4bob2o11bo4bob2o33b3o$o3b2o4b2o8bo3b2o36bo$
 2o2bo5bo9b2o2bo37b2o$5bo5bo13bo10b2o$2o2b2o4b2o8b2o2b2o10b2obo$bo2bo5b

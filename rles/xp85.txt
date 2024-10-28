@@ -1,10 +1,16 @@
 
-x = 21, y = 21, rule = B3/S23
-6bo11bo$6b3o7b3o$9bo5bo$8b2o5b2o2$12b2o$12b2o$12bobo$13b2o$13b2o$
-6b2o$6bobob2o5b2o$2bob2o2bob2o5bo$2b2obobo10b3o$7b2ob2o8bo$2b3obo
-4bo$bo4bob3o$2bobo2b2o$b2obo$o2bo3b2o$2o5b2o!
+x = 47, y = 21, rule = B3/S23
+17b2o5bo$17bo6b3o$15bobo9bo$11b2o2b2o9b2o$4bo6b2o$3bobo$3bobo25b2o
+$b3ob2o23bo2bo$o31b2o$b3ob2o22b4o$3bob2o9bo13bo9b2obo$14b4o22b2ob
+3o$13b2o31bo$13bo2bo23b2ob3o$14b2o25bobo$41bobo$34b2o6bo$19b2o9b2o
+2b2o$19bo9bobo$20b3o6bo$22bo5b2o!
 
 x = 29, y = 46, rule = B3/S23
 20b2o$20bo$6b2o10bobo$6b2o10b2o13$10b3o14b2o$11bo12b2o2bo$10bo12b
 2ob2o$23b2o$23b2o$23b2ob2o$2o22b2o2bo$o2b2o22b2o$b2ob2o$4b2o$4b2o$
 b2ob2o12bo$o2b2o12bo$2o14b3o13$9b2o10b2o$8bobo10b2o$8bo$7b2o!
+
+x = 21, y = 21, rule = B3/S23
+6bo11bo$6b3o7b3o$9bo5bo$8b2o5b2o2$12b2o$12b2o$12bobo$13b2o$13b2o$
+6b2o$6bobob2o5b2o$2bob2o2bob2o5bo$2b2obobo10b3o$7b2ob2o8bo$2b3obo
+4bo$bo4bob3o$2bobo2b2o$b2obo$o2bo3b2o$2o5b2o!

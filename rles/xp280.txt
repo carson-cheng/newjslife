@@ -1,0 +1,12 @@
+
+x = 33, y = 22, rule = B3/S23
+8bo$8b3o$11bo$10b2o$18b2o$13bo4b2o$13bo4b2o$b2o5b2o3bo$b2o5b2o8bo$
+17b2o$18bo$bo7bo9b2o9bo$3o5b3o7b3o8b3o$o9bo8bo9b2o$b3o3b3o21bo$31b
+2o$4bobo24bo2$30b2o$30b2o$b2o5b2o20b2o$b2o5b2o!
+
+x = 41, y = 41, rule = B3/S23
+14bo$14b2o$13b2obo$12bo2b3o$11bobobo8bo$10bobobo8bobo$8b3o2bo10bo$
+9bob2o$10b2o$11bo$35bo2$33bob3o$35b2obo$35bob2o$36b3obo$4bo$3bobo
+32bo$4bo6$36bo$2bo20b2o10bobo$b3o19bo2bo9bo$3obo18bo2bo$bo3bo17bo$
+2bo3bo16bobo$3bob3o16bo$4b3o$5bo3$28b3o$16bo11b3o$15bobo10b3o$16bo
+8b3o$25b3o$25b3o!

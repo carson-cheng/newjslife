@@ -17,11 +17,13 @@ for file in files:
             apgcodes = f.read().split("\n")
             for apgcode in apgcodes:
                 if "x" in apgcode:
+                    #print(apgcode)
                     rle_string = lt.pattern(apgcode).rle_string()
                     rles += (rle_string.split("golly")[1])
     # if-statement can be removed if you need to update all periods
-    if period < limits[1] and period > limits[0]:
-        with open("rles/" + prefix + ".txt", "w") as wf:
-            wf.write(rles)
+    #if period < limits[1] and period > limits[0]:
+    with open("rles/" + prefix + ".txt", "w") as wf:
+        #print(prefix)
+        wf.write(rles)
                 
         

@@ -8,3 +8,13 @@ $2bo$bo21bo$b2o8bo11b6o$3bo6bobo14b2o$b3o5bobo13bo2bo$o8b2o$2o$40b
 81b2o8bo$63bo2bo13bobo5b3o$63b2o14bobo6bo$63b6o11bo8b2o$68bo21bo$
 89bo$68bo20b2o$69bobo$69b5o$69bo4bo$68b2ob3o$69bobo$57b2o10bobo$
 57b2o11bo!
+
+x = 51, y = 41, rule = B3/S23
+43b2o$43bobo$34bo10bo2b2o$34b3o7b2obobo$37bo9bo$36b2o6b4o$44bo3b2o
+$45b3o2bo$10b2o2b2o6b3o22bob2o$10bo2bobo19b3o3b3o3bo$11bobo17bo14b
+2o$10b2ob2o16b2o6bo$6b2obo2bo2bo14bobo6bo$4bo2bob2o2b2o16bo7bo3b2o
+$4b2obo35bobo$7bo37bo$7b2o36b2o3$10b2o$10b2o27b2o$39b2o3$4b2o36b2o
+$5bo37bo$5bobo35bob2o$6b2o3bo7bo16b2o2b2obo2bo$11bo6bobo14bo2bo2bo
+b2o$11bo6b2o16b2ob2o$3b2o14bo17bobo$3bo3b3o3b3o19bobo2bo$2obo22b3o
+6b2o2b2o$o2b3o$b2o3bo$3b4o6b2o$3bo9bo$bobob2o7b3o$b2o2bo10bo$5bobo
+$6b2o!

@@ -1,0 +1,13 @@
+#CXRLE Pos=-5,0
+x = 308, y = 46, rule = B3/S23
+2o8b2o4b2obo23b2o232bo$bo9bo4bob2o23b2o230bobo$o9bo3b2o4b2o254bobo$2o
+8b2o2bo5bo255bo$15bo5bo20bo$2o8b2o2b2o4b2o19bobo$bo9bo4b2obo22bo236bo$
+o9bo5bob2o19b3o12b2o222bobo$2o8b2o2b2o4b2o17bo12b2obo14bo207bobo$14bo
+5bo31bo15b2o209bo$2o8b2o3bo5bo19bo10b3o15b2o$bo9bo2b2o4b2o19b2o20b2o4b
+o$o9bo5b2obo21b2o19bo2bo$2o8b2o4bob2o22bo20b2o225bo8b2o$289bobo8bo$
+290bo4b3o2bobo$40bo233b2o18b3o4bobo$39bobo232bo2bo24bo3b2o$40bo234bobo
+28b2o$275b3o3$55bo$54bobo$55bo2$297b3o$31b2o20bo213b2o28bobo$30bo2bo
+19b2o212b2o3bo24bo2bo$26bo4b2o20b2o216bobo4b3o18b2o$24b2o15b3o10bo217b
+obo2b3o4bo$26b2o15bo230bo8bobo$25bo14bob2o12bo217b2o8bo$40b2o12b3o$53b
+o$52bobo$53bo241bo$294bobo$294bobo$51b2o242bo$51b2o2$298bo$296bobo$
+297bobo$297bo!

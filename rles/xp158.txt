@@ -1,0 +1,7 @@
+
+x = 38, y = 53, rule = B3/S23
+26b2o$26bo$24bobo$24b2o$28b2o$28b2o$36b2o$36bo$34bobo$34b2o$6b2o
+12bo$6b2o12b2o$22bo$20b2o$20bo$36b2o$32b2obobo$32b2obo$36bo$32b2ob
+2o$33bobo$33bobo$34bo8$3bo$2bobo$2bobo$b2ob2o$bo$2bob2o$obob2o$2o$
+17bo$16b2o$15bo$16b2o12b2o$17bo12b2o$2b2o$bobo$bo$2o$8b2o$8b2o$12b
+2o$11bobo$11bo$10b2o!

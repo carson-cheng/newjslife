@@ -1,0 +1,12 @@
+
+x = 90, y = 88, rule = B3/S23
+63b2o$63bobo$58b2o4b3o12bo$54b4o2bo4b3o8b4o4bo$54b3ob2o4b3o8b4o5bo
+$63bobo9bo2bo9b2o$63b2o10b4o9b2o$67bo8b4o$66bo12bo$66b3o6$20b2o37b
+o$20b2o37bobo$59b2o5$52bo$51bo$19b3o29b3o$18bo3bo$17bo5bo$17b2obob
+2o3$20bo$19bobo$19bobo$19b2o$18bo$17b3o$16bo3bo$15bob3obo48b2o$16b
+5o4bo43bo2bo$26b2o44bo$25b2o45bo$58bo11bobo$57b2o11bobo$57bobo11bo
+3$32bobo33b2o3b2o$33b2o16bo16bo5bo$33bo17bobo$18b2o31b2o12b2o2bo3b
+o$18b2o44b2o4b3o$66bo6$69bo$67b2ob2o2$66bo5bo$38b3o$40bo25b2obob2o
+$39bo5$31b2o$30bobo$32bo$68b2o$68b2o4$23b3o$25bo$24bo$12bo$11b2o$
+2o8b2o4b2o5bo$2o7b3o4b2o3bobo$10b2o4b2o2bobo11b2o$11b2o6bo2bo11b2o
+$12bo7bobo$21bobo$23bo!

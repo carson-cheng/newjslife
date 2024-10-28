@@ -1,0 +1,7 @@
+
+x = 36, y = 31, rule = B3/S23
+23b2o7bo$11bo7bo4bo6bobo$10bobo5bobo3bobo4bobo$11bo7bo5b2o3b2ob2o$
+35bo$28b8o$28b2o$6bo4b3o3b3o4bo6bobo$6bo4b3o3b3o4bo7b2o$6bo5bo5bo
+5bo$2b2o23b2o$bobo23bobo$bo27bo$2o27b2o2$7b2o13b2o$7b2o13b2o2$2o
+27b2o$bo27bo$bobo23bobo$2b2o23b2o$6bo5bo5bo5bo$6bo4b3o3b3o4bo$6bo
+4b3o3b3o4bo4$11bo7bo$10bobo5bobo$11bo7bo!

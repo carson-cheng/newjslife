@@ -1,0 +1,42 @@
+
+x = 32, y = 30, rule = B3/S23
+8o7b2o$ob4obo7b2o$8o2$18bo$17b2obo$18bo2bo$18bo$19b3o2$8bobo$7bo2b
+o$10bo$6b4o20b2o$7bo22b2o$2b2o22bo$2b2o20b4o$23bo$23bo2bo$23bobo2$
+12b3o$15bo$12bo2bo$13bob2o$15bo3$17b2o$17b2o!
+
+x = 64, y = 54, rule = B3/S23
+5b2o$4bo2bo11bo$4b2obo11b3o$5bob2o13bo$o2bo17b2o$5ob3o25bo$8b2o22b
+3o$2b3o2b2o22bo$2bo2bo2b3o20b2o$3b2o3b2obo2b2o$10bobob2o22bo$10b2o
+25bobo$37bobo$36b2ob3o$9bo32bo$9b3o24b2ob3o$12bo23b2obo$11b2o$51b
+2o$23bo27b2o$7b2o13bob2o$7b2o13bob2o$23b2o9$39b2o$38b2obo13b2o$38b
+2obo13b2o$11b2o27bo$11b2o$51b2o$24bob2o23bo$22b3ob2o24b3o$21bo32bo
+$22b3ob2o$24bobo$24bobo25b2o$25bo22b2obobo$48b2o2bob2o3b2o$31b2o
+20b3o2bo2bo$32bo22b2o2b3o$29b3o22b2o$29bo25b3ob5o$41b2o17bo2bo$41b
+o13b2obo$42b3o11bob2o$44bo11bo2bo$57b2o!
+
+x = 30, y = 34, rule = B3/S23
+15b2o$15b2o3$13bo$11bob2o$10bo2bo$13bo$10b3o2$21bobo$21bo2bo$21bo$
+2o20b4o$2o22bo$5bo22b2o$4b4o20b2o$8bo$5bo2bo$6bobo2$17b3o$16bo$16b
+o2bo$15b2obo$16bo$3b2o$3bo2b2o$4b2obo5b2o$8bo4b2o$8bo$4b2obo$3bo2b
+2o$3b2o!
+
+x = 38, y = 63, rule = B3/S23
+21b3o$21bobo$13b2o6b3o$7b2o3bobo6b3o$7b2o3bo8b3o$12bobo6b3o$13b2o
+6bobo$21b3o5$17bo$16bobo$17b2o3$11bo$9b2obo$9bo3bo$10bobo$13bo$11b
+obo3bo$10bo5bobo$9b2ob2o2b2o$8bo24bo$32bobo$32bobo$31b2ob3o$8b2o
+27bo$10bo20b2ob3o$3bob2o24b2obo$b3ob2o20bo$o27b2o$b3ob2o$3bobo$3bo
+bo$4bo24bo$20b2o2b2ob2o$19bobo5bo$20bo3bobo$24bo$25bobo$24bo3bo$
+25bob2o$26bo3$19b2o$19bobo$20bo5$14b3o$14bobo6b2o$14b3o6bobo$14b3o
+8bo3b2o$14b3o6bobo3b2o$14b3o6b2o$14bobo$14b3o!
+
+x = 30, y = 34, rule = B3/S23
+13b2o$13b2o3$16bo$15b2obo$16bo2bo$16bo$17b3o2$6bobo$5bo2bo$8bo$4b
+4o20b2o$5bo22b2o$2o22bo$2o20b4o$21bo$21bo2bo$21bobo2$10b3o$13bo$
+10bo2bo$11bob2o$13bo$23b3o$23bobo$15b2o6b3o$15b2o6b3o$23b3o$23b3o$
+23bobo$23b3o!
+
+x = 50, y = 28, rule = B3/S23
+24b2o$24b2o$3b8o3bobo16bobo3b8o$3bob4obo4b2o16b2o4bob4obo$3b8o4bo
+18bo4b8o8$o2bob2obo2bo26bo2bob2obo2bo$4ob2ob4o26b4ob2ob4o$o2bob2ob
+o2bo12b2o12bo2bob2obo2bo$24b2o5$18b3o8b3o$18bobo8bobo$18b3o8b3o$
+18b3o8b3o$18b3o8b3o$18b3o8b3o$18bobo8bobo$18b3o8b3o!

@@ -1,4 +1,19 @@
 
+x = 30, y = 37, rule = B3/S23
+18bo$5b2o10bobo$5b2o9bo3bo$16bo3bo$16b2ob2o$26b2o$26bobo$28bo$28b
+2o2$3bo$3b3o17b2o$6bo16bo$5b2o17b3o$26bo2$2o$bo$bobo$2b2o$9b2ob2o$
+9bo3bo$9bo3bo9b2o$10bobo10b2o$11bo7$14bobo$17bo$13bo2bo$12bobobo$
+12bo2bo$13b2o!
+
+x = 47, y = 47, rule = B3/S23
+19b2o5b2o$13bob2obobo5bo$13b2obobo4b2obo$17b2o4bobo3$18b2o$18b2o2$
+31bo$30bobo$18b2o11bo$18b2o$b2o$2bo33bo$bo33bobo$b2o33bo$3bo$b3o2b
+2o3b2o$o5b2o3b2o33bo$2o25bo16b3o$26b2o15bo$25b3o16bo$2b2o23bo15b2o
+$2bo23bo$3bo18bo$3o18b2obo20b2o$o19b4o10b2o3b2o5bo$34b2o3b2o2b3o$
+43bo$10bo33b2o$9bobo33bo$10bo33bo$44b2o$27b2o$15bo11b2o$14bobo$15b
+o2$27b2o$27b2o3$21bobo4b2o$20bob2o4bobob2o$20bo5bobob2obo$19b2o5b
+2o!
+
 x = 32, y = 32, rule = B3/S23
 9b2o4b2o4b2o$8bo2bobo4bobo2bo$8b3o10b3o$11b2o6b2o$10bo2b6o2bo$10b
 2o8b2o3$b2o26b2o$obo26bobo$obob2o20b2obobo$bobobo20bobobo$3bo24bo$
@@ -6,9 +21,3 @@ x = 32, y = 32, rule = B3/S23
 2o11bo11b2o$3bo12bo11bo$bobobo20bobobo$obob2o20b2obobo$obo26bobo$b
 2o26b2o2$15b2o$10b2obo4bob2o$10bo10bo$11b2o6b2o$8b3o2b6o2b3o$8bo2b
 o8bo2bo$9b2o10b2o!
-
-x = 30, y = 37, rule = B3/S23
-18bo$5b2o10bobo$5b2o9bo3bo$16bo3bo$16b2ob2o$26b2o$26bobo$28bo$28b
-2o2$3bo$3b3o17b2o$6bo16bo$5b2o17b3o$26bo2$2o$bo$bobo$2b2o$9b2ob2o$
-9bo3bo$9bo3bo9b2o$10bobo10b2o$11bo7$14bobo$17bo$13bo2bo$12bobobo$
-12bo2bo$13b2o!

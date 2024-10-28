@@ -1,0 +1,13 @@
+
+x = 100, y = 34, rule = B3/S23
+49bo$49b3o$4bo13b3o31bo$3bobo12b2o31b2o$3bobob2o10b2o$2obobobo3bo
+7bo14b2o$o2bobo5bo10b2o10b2o32b2o4b2o$2b2obob2obob2o5b2obo44bo2bo
+3b2o$5b2o6bo6bo47b2o8bo$6bo7b2o4bo27b2o28bo$3b2ob2o6b3o31b2o28bo$
+4bobo7b3o61b2o$4bobo7b3o3b2o59bo12b2o$3b2ob2o6b3o3b3o54bo4bo9bo3bo
+$6bo7b2o4b2o60bo9bobobo$5b2o6bo59b2o3b3o8b2o2b2obob2o$2b2obob2obob
+2o59b2o13b4o2bobo2bo$o2bobo5bo8bo4b2o60bo3b2obob2o$2obobobo3bo8bo
+4b2o58bobo6b2o$3bobob2o9bob2o56bo5bo10bo$3bobo11b2o59b2o4bo7b2ob2o
+$4bo16bo26b2o28bo5bo3bo4bobo$20b2o25b3o34bo3bo4bobo$21b2o24bo2bo
+33bo7b2ob2o$20b3o25b2o34bo10bo$30b2o46b3o4bobo6b2o$24b2o3bo2bo43bo
+10bo3b2obob2o$24b2o4b2o32b2o10bo4bo6b4o2bobo2bo$64b2o11bo11b2o2b2o
+bob2o$79b2o11bobobo$47b2o31bo11bo3bo$47bo32bo13b2o$48b3o29bo$50bo!
